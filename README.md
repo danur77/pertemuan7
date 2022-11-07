@@ -10,8 +10,8 @@ Kelas   : TI.22.A1
 | ----- | ----- | ---- |
 | 1 | Lab 2 : Struktur Kondisi | [Click Here](#Lab-2-Struktur-Kondisi) |
 | 2 | Lab 3 : Perulangan | [Click Here](#Lab-3-Perulangan) |
-| 3 | modul praktikum2 : | [Click Here](#Labpy02) |
-| 4 | modul praktikum3 : | [Click Here](#Labpy03) |
+| 3 | modul praktikum2 | [Click Here](#Labpy02) |
+| 4 | modul praktikum3  | [Click Here](#Labpy03) |
 | 5 | Author  : Danang Nurcahyo | [Click Here](#Author-DANUR) |
 
 
@@ -324,4 +324,4 @@ for i in lb:
 
 Sekian penjelasan dari saya Terima Kasih 
 
-### Author Yoga Pratama
+### Author DANURRR
