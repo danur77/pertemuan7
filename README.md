@@ -188,7 +188,7 @@ Langkah - langkah
 
 1. Buat program caodenya seperti gambar dibawah ini 
 
-![Screenshot (74)](https://user-images.githubusercontent.com/115677839/200222368-3db986f1-6420-4145-a93a-3a6e8eb433fa.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/115677839/200224007-15492498-16ae-47d5-aeec-453781c207ac.png)
 
 print("bilangan acak yang lebih kecil dari o.5")
 import random
@@ -198,13 +198,14 @@ a = 0
 for c in range(n):
     a += 1
     b = random.uniform(.0, .5)
-    print("data ke:", a, "==>", b)
+    print("data ke:", a, "==>", i)
 
 print("selesai")
 `
 2. Hasil Run 
 
-![Screenshot (75)](https://user-images.githubusercontent.com/115677839/200222440-1dbbd6a7-33e8-462e-a2f1-ef549c8e2b7f.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/115677839/200224054-f45955bf-da4e-46e6-a70a-cf956cf0caa8.png)
+
 
 ### Latihan 2
 
